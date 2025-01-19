@@ -3,6 +3,10 @@
 - Green arrow => Prereq
 - Blue arrow => Coreq
 - Red arrow => Antireq
+
+---
+![image](https://github.com/user-attachments/assets/dfc4971e-375c-47bb-bacf-c79f0c94bbfa)
+
 ---
 - Node colours => Department colours
 - Black node with no description => Course not offered this semester
