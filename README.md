@@ -1,5 +1,13 @@
-# Vue 3 + TypeScript + Vite
+# Dependency tree of every course at the University of Waterloo (Winter 2025)
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+- Green arrow => Prereq
+- Blue arrow => Coreq
+- Red arrow => Antireq
+---
+- Node colours => Department colours
+- Black node with no description => Course not offered this semester
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+> [!NOTE]
+> Scroll to the bottom!
+
+![Waterloo Course Dependency Tree](https://github.com/echometerain/UWDepTree/blob/8b878b1638600867728f447d9ab95973bd33e9e5/Waterloo%20Course%20Dependency%20Tree.gv.svg)
