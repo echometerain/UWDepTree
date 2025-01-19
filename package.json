@@ -12,8 +12,10 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@mdi/font": "^7.4.47",
     "tsconfig": "^7.0.0",
-    "vue": "^3.5.13"
+    "vue": "^3.5.13",
+    "vue3-infinite-viewer": "^0.17.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
@@ -21,6 +23,8 @@
     "gh-pages": "^6.3.0",
     "typescript": "~5.6.2",
     "vite": "^6.0.5",
-    "vue-tsc": "^2.2.0"
+    "vite-plugin-vuetify": "^2.0.4",
+    "vue-tsc": "^2.2.0",
+    "vuetify": "^3.7.6"
   }
 }
