@@ -1,18 +1,19 @@
-# Dependency tree of every course at the University of Waterloo (Winter 2025)
+# Dependency tree of every course at the University of Waterloo (Spring 2025)
 
-> [!NOTE]
-> [Try it here](https://echometerain.github.io/UWDepTree/Waterloo%20Course%20Dependency%20Tree.gv.svg)
+> [!NOTE] > [Try it here](https://echometerain.github.io/UWDepTree/Waterloo%20Course%20Dependency%20Tree.gv.svg)
 
-- Green arrow => Prereq
-- Blue arrow => Coreq
-- Red arrow => Antireq
+-   Green arrow => Prereq
+-   Blue arrow => Coreq
+-   Red arrow => Antireq
 
 ---
+
 ![image](https://github.com/user-attachments/assets/dfc4971e-375c-47bb-bacf-c79f0c94bbfa)
 
 ---
-- Node colours => Department colours
-- Black node with no description => Course not offered this semester
+
+-   Node colours => Department colours
+-   Black node with no description => Course not offered this semester
 
 > [!NOTE]
 > Scroll to the bottom!
