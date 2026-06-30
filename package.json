@@ -18,11 +18,11 @@
     "vue3-infinite-viewer": "^0.17.1"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.2.1",
+    "@vitejs/plugin-vue": "^6.0.7",
     "@vue/tsconfig": "^0.7.0",
     "gh-pages": "^6.3.0",
     "typescript": "~5.6.2",
-    "vite": "^6.4.2",
+    "vite": "^8.1.0",
     "vite-plugin-vuetify": "^2.0.4",
     "vue-tsc": "^2.2.0",
     "vuetify": "^3.7.6"
